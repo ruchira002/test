@@ -1,0 +1,17 @@
+{
+  "name": "cypressproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.0",
+    "mochawesome": "^7.1.3",
+    "typescript": "^5.2.2"
+  }
+}
