@@ -18,7 +18,8 @@ module.exports = defineConfig({
       "html": true,
       "json": false,
       "autoOpen": false,
-      "embeddedScreenshots": true     
+      "embeddedScreenshots": true,
+      "inline":true   
     },
     "video":true,
     setupNodeEvents(on, config) {
